@@ -42,4 +42,14 @@ z <- seq(from = -3, to = 4, by = 0.5)
 eval(dg_dz)
 ```
 
+#git is software built for version control for code, the workshorse tracking changes as you edit your data science project that you're working on
 
+#github is an online plateform that makes it easier for us to manage that, PM, collab, view changes, and publishing
+
+#using it together, they're not the same, there are other plateforms to work with, many of those are used to make git easier to use
+
+#make this a version control project, going to use two functions and a package usethis:: in the console
+
+#tracking git locally
+
+hi

@@ -54,3 +54,9 @@ eval(dg_dz)
 
 #this only still exist on our computer but it is getting tracked
 #going to connect this to a remote repository
+
+some awesome text!!!
+
+#before you save any changes you won't see any in the Git tab, as soon as you make changes, the file that has been changed will appear in the Git tab... with an M (M=modified)
+#first level of security, hitting save, has saved it to the computer, next lvl of security (with a history) the first, staging, these are the things I am ready to "ship.
+#>Select Stage >Press Commit >put commit message (on screen you can scroll down and show what was changed), no error, it uploaded

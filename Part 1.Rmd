@@ -52,4 +52,5 @@ eval(dg_dz)
 
 #tracking git locally
 
-hi
+#this only still exist on our computer but it is getting tracked
+#going to connect this to a remote repository
